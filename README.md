@@ -3,11 +3,6 @@
 
 Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device
 
-[![Version](https://img.shields.io/badge/Brutal-1.0.0-brightgreen.svg?maxAge=259200)]()
-[![Version](https://img.shields.io/badge/Codename-Reaper-red.svg?maxAge=259200)]()
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
-
 <img src="https://cloud.githubusercontent.com/assets/17976841/20054455/a43d8358-a50f-11e6-90a6-c967a9d3a43f.png" width="60%"></img> 
 
 
